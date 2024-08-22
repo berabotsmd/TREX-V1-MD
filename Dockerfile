@@ -18,7 +18,7 @@ RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
 
 RUN npm install -g yarn
 
-RUN git clone https://github.com/FXastro/fxop-md.git /root/bot
+RUN git clone https://github.com/berabotsmd/TREX-V1-MD.git /root/bot
 WORKDIR /root/bot
 RUN npm install
 CMD ["npm", "start"]
