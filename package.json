@@ -1,10 +1,10 @@
 {
- "name": "fxop-md",
+ "name": "TREX-V1-MD",
  "version": "1.0.2",
  "description": "Whatsapp Bot",
  "main": "index.js",
  "scripts": {
-  "start": "pm2 start . --attach --name fxop-md",
+  "start": "pm2 start . --attach --name TREX-V1-MD",
   "stop": "pm2 stop fxop-md"
  },
  "author": "FXastro",
@@ -12,7 +12,7 @@
   "@adiwajshing/keyed-db": "^0.2.4",
   "@neeraj-x0/ytsearch": "^1.0.0",
   "axios": "^1.7.4",
-  "baileys": "github:FXastro/Baileys",
+  "baileys": "github:berabotsmd/Baileys",
   "bitly": "^4.1.1",
   "browser-id3-writer": "^4.4.0",
   "cheerio": "^1.0.0-rc.12",
