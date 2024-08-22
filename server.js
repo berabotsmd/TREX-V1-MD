@@ -13,7 +13,7 @@ class RunServer {
    res.send(`
         <html>
           <head>
-            <title>AstroFX Iframe</title>
+            <title>TREX-V1-MD Iframe</title>
             <style>
               body, html, iframe {
                 margin: 0;
