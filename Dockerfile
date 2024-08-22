@@ -1,4 +1,4 @@
-# Property Of @FXastro
+# Property Of @berabotsmd
 
 FROM debian:bullseye-slim
 
